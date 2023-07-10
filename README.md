@@ -1,2 +1,2 @@
 # simplecodes
-learnind codes
+learning codes free
