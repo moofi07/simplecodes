@@ -2,5 +2,7 @@ sample codes
 1. first code
 2. second code is merging
 3. third code is evaluating
+check the plans
 4. fourth code is correcting
 5. code is rearranging
+7.hiding our backend codes
